@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "mine.cpplint", 
+        "ms-vscode.cmake-tools",
+    ]
+  }
